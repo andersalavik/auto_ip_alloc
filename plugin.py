@@ -7,8 +7,8 @@ class AutoIPAllocConfig(PluginConfig):
     verbose_name = 'Auto IP Allocation Plugin'
     description = 'Automatically allocate IP addresses from prefixes via REST API'
     version = '0.1'
-    author = 'Your Name'
-    author_email = 'your.email@example.com'
+    author = 'Anders Alavik'
+    author_email = 'anders.alavik@infracom.se'
     base_url = 'auto-ip-alloc'
     required_settings = []
     default_settings = {}

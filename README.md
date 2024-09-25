@@ -261,6 +261,6 @@ If any of the provided fields are invalid or the request is malformed, the API r
 ## Contact
 
 - **Author:** Anders Alavik
-- **Email:** anders.alavik@infracom,.se
+- **Email:** anders.alavik@infracom.se
 
 ```
