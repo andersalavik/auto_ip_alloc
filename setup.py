@@ -6,7 +6,7 @@ setup(
     name='auto_ip_alloc',
     version='0.1',
     description='Automatically allocate IP addresses from prefixes via REST API',
-    url='https://github.com/alavik/auto_ip_alloc',
+    url='https://github.com/andersalavik/auto_ip_alloc',
     author='Anders Alavik',
     author_email='anders.alavik@infracom.se',
     license='MIT',
